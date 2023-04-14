@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         DemoLibraryClassImpl().simpleToast(this,"hello")
         DemoLibraryClassImpl().startFragment(this)
+        ///akjdsfahoids
     }
 }
